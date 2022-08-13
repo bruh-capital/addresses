@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "transaction"
+name = "orbit-addresses"
 version = "0.1.0"
