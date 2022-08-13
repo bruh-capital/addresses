@@ -1,6 +1,4 @@
-[library]
-name = "orbit-addresses"
+[package]
+name = "transaction"
 version = "0.1.0"
 edition = "2021"
-
-[workspace]
